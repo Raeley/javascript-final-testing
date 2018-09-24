@@ -26,3 +26,4 @@ Javascript is used to make the website responsive to a user.The user is able to 
 ## contact me
 Incase of any ideas or corrections,email me at raelmoraa85@gmail.com or fork the repository and make changes to the code.
 ## license
+The project is licensed by MIT license.
